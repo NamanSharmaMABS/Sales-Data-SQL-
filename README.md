@@ -71,8 +71,3 @@ The dataset includes the following columns:
 1. Import the SQL file provided in this repository into your SQL environment.
 2. Execute the queries individually to extract the insights.
 
-## Contributing
-Contributions are welcome! If you have additional analysis ideas or improvements, feel free to create a pull request.
-
-## License
-This project is open-source and available under the MIT License.
